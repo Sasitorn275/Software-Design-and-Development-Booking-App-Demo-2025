@@ -1410,7 +1410,7 @@ export default App;
 ### 📸 บันทึกผลการทดลอง: การทดสอบ Logout และ Protected Route
 
 > แทรกรูปภาพที่นี่
-![Uploading image.png…]()
+<img width="2879" height="1292" alt="Screenshot 2026-03-12 005536" src="https://github.com/user-attachments/assets/3f516247-f264-4647-8067-acdee81dfb60" />
 
 ---
 
